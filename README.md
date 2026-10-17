@@ -8,7 +8,7 @@
 ### 2. User Accounts & Community
 * **Personal Dashboard:** User registration, profile management, and personalized assistance[cite: 21].
 * **Blogging Platform:** A Reddit-style blogging system allowing users to share insights and participate in community discussions[cite: 21].
-## 🛠 Tech Stack & Architecture
+## Tech Stack & Architecture
 * **Backend:** C#, ASP.NET Core MVC (Controllers, Models, Views architecture)
 * **Frontend:** HTML5, CSS3, JavaScript
 * **Tools:** Visual Studio, Git / GitHub
